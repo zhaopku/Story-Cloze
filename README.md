@@ -24,7 +24,7 @@
 
         the output file is "ETH_test_results.csv"
 
-## Attention:
+## Attention
     The code will generate a pkl file in data folder, when reproducing results of the best setting, please use the pkl file
     in the link below, as different machines may generate different vocabularies because of encodings. The pkl file below is
     generated on Leonhard.
